@@ -1,0 +1,16 @@
+{
+  "name": "2s",
+  "version": "1.0.0",
+  "description": "2s.io",
+  "main": "loader.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Alley <alley@alleyford.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@alleyford/nodeaf": "file:../nodeaf",
+    "aiaf": "file:../aiaf"
+  }
+}
